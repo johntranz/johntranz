@@ -1,9 +1,9 @@
 ### Here is What I'm Working On !  👋
 
-<img with="500" height="400" src="https://images.unsplash.com/photo-1468971050039-be99497410af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80">
+<img with="500" height="400" src="https://cdna.artstation.com/p/assets/images/images/049/841/006/large/aaron-burnhope-wideshot.jpg?1653442446">
 
-- 🔭 I’m currently working on Home
-- 🌱 I’m currently learning Nodejs + Express + Reactjs
+- 🔭 I’m currently working on STDIO HUE
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on everyone
 - 🤔 I’m looking for help with 
 - 💬 Ask me about everything
