@@ -1,6 +1,6 @@
 ### Here is What I'm Working On !  👋
 
-<img with="500" height="400" src="https://cdna.artstation.com/p/assets/images/images/049/841/006/large/aaron-burnhope-wideshot.jpg?1653442446">
+<img src="https://cdna.artstation.com/p/assets/images/images/049/841/006/large/aaron-burnhope-wideshot.jpg?1653442446">
 
 - 🔭 I’m currently working on STDIO HUE
 - 🌱 I’m currently learning Golang
