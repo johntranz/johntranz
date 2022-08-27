@@ -6,6 +6,3 @@
 - 👯 I’m looking to collaborate on everyone
 - 🤔 I’m looking for help with 
 - 💬 Ask me about everything
-- 📫 How to reach me: [Facebook](https://www.facebook.com/huytran.16.02.98/)
-- 😄 Pronouns: Lỳ
-- ⚡ Fun fact: funny boy
